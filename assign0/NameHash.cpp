@@ -65,7 +65,6 @@ int nameHash(string first, string last){
          */
         ch = tolower(ch);
         hashVal = (kSmallPrime * hashVal + ch) % kLargePrime;
-        // assig0 hashVal: 12419
     }
     return hashVal;
 }
