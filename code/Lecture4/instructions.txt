@@ -1,0 +1,24 @@
+Problem Description
+
+We want to write a function with the prototype
+`string complement (string dnaStrand)`
+which takes in a strand of DNA as a string and returns its 
+complement as a string. 
+
+The function’s output should be case-insensitive; that is, 
+complement("ATG") and complement("aTg") should return the same result. 
+All output of the function should be in uppercase.
+
+The function can assume that all of the base pairs of the input 
+string are valid DNA base pairs– that is, the string consists only 
+of the following characters: ‘a’, ‘A’, ‘g’, ‘G’, ‘t’, ‘T’, ‘c’, ‘C’
+
+Your Tasks
+
+1. Examine the provided function and tests in `dna.cpp`. Write one additional test  
+that examines a case not covered by the provided tests. This test should
+uncover the bug in the provided implementation. 
+2. Fix the bug in the `complement` function. 
+3. Make sure to add a more accurate name to the STUDENT_TEST identifier 
+in the code. Discuss with your group what other tests/groups of tests you 
+might add if you had more time to make the code more robust.

@@ -1,6 +1,6 @@
 # CS106B
 
-Stanford CS106B — 2022 Solutions 🧑‍💻
+Stanford CS106B — 2022 Solutions 🌴
 
 - [Course Link](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1228/)
 - [My Blog](https://mancuoj.vercel.app/cs106b)
@@ -13,4 +13,3 @@ CS106B will acquaint you with the C++ programming language and introduce advance
 - ✅ Slides & Code
 - ✅ Textbook
 - ✅ Assignments
-- ✅ Auto Grader
