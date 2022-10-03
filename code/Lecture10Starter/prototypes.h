@@ -1,2 +1,0 @@
-void runHanoiDemo();
-void runSequencesDemo();
