@@ -7,10 +7,9 @@ Stanford CS106B
 </p>
 
 <p align="center">
-  <a href="https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1228/">course link</a> | 
-  <a href="https://mancuoj.vercel.app/cs106b/">blog</a>
+  <a href="https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1228/">course link</a>
 </p>
 
 <pre align="center">
-Work in progress
+WIP: Start in 2023
 </pre>
