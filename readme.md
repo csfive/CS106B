@@ -1,10 +1,11 @@
+<br>
 <p align="center">
 <img src="./S.png" alt="logo" height="150"/>
 </p>
 
-<p align="center">
+<h1 align="center">
 Stanford CS106B
-</p>
+</h1>
 
 <p align="center">
   <a href="https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1228/">course link</a>
